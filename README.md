@@ -2,7 +2,7 @@
 Code Exec via Excel
 
 <table>
-<tr<td>><strong>Credit</strong></td><tr><br>
+<tr><td>><strong>Credit</strong></td><tr><br>
 <tr><td>EdParcell: https://github.com/edparcell/HelloWorldXll</td></tr><br>
 <tr><td>MSDN: https://msdn.microsoft.com/en-us/library/office/bb687883.aspx</li><br> 
 <tr><td>Ryan Hanson: https://gist.github.com/ryhanson/227229866af52e2d963cf941af135a52</li><br>
