@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+     Creating library C:\Users\dso\Desktop\XLL_POC\Release\XLL_POC.lib and object C:\Users\dso\Desktop\XLL_POC\Release\XLL_POC.exp
+  Generating code
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  XLL_POC.vcxproj -> C:\Users\dso\Desktop\XLL_POC\Release\XLL_POC.dll
+  XLL_POC.vcxproj -> C:\Users\dso\Desktop\XLL_POC\Release\XLL_POC.pdb (Full PDB)

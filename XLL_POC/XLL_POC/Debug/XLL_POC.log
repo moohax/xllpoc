@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  XLL_POC.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library c:\users\dso\desktop\XLL_POC\Debug\XLL_POC.lib and object c:\users\dso\desktop\XLL_POC\Debug\XLL_POC.exp
+XLL_POC.obj : error LNK2019: unresolved external symbol _Excel4 referenced in function "short __stdcall xlAutoOpen(void)" (?xlAutoOpen@@YGFXZ)
+c:\users\dso\desktop\XLL_POC\Debug\XLL_POC.dll : fatal error LNK1120: 1 unresolved externals
