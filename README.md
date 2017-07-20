@@ -1,6 +1,6 @@
 # xllpoc
 ## Code Exec via Excel
-A small project that aggregates community knowledge for Excel XLL execution, via xlAutoOpen() or PROCESS_ATTACH. Not a new concept.
+A small project that aggregates community knowledge for Excel XLL execution, via xlAutoOpen() or PROCESS_ATTACH. 
 
 ### Credit   
 - EdParcell: https://github.com/edparcell/HelloWorldXll  
